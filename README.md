@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lorenso
+# 👋 Hi, I'm Lorens
 
 💻 IT Student | Junior Developer
 
