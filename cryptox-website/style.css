@@ -1,0 +1,72 @@
+/* стилі для сторінки */
+body {
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    line-height: 1.6;
+}
+
+#page-title {
+    color: navy;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.intro {
+    font-size: 18px;
+    font-style: italic;
+    text-align: center;
+    color: #555555;
+}
+
+/* заголовки розділів */
+.section-title {
+    color: navy;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h3 {
+    color: #34495e;
+    font-size: 20px;
+}
+
+strong {
+    color: navy;
+}
+
+/* посилання */
+a {
+    color: navy;
+    text-decoration: none;
+}
+
+a:hover {
+    color: gray;
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.highlight {
+    color: navy;
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #dddddd;
+}
